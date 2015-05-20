@@ -1,6 +1,7 @@
 /**
- * —делайте страницу, котора€ выводит Ђя Ц JavaScript!ї.
+ * Sdelat stranicy s ЂYa - JS!ї.
  */
 
 alert("YA PROSTO CAPEC KAKAYA JAVASCRIPT")
 
+/** **/
