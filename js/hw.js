@@ -1,3 +1,6 @@
 /**
- * Created by Ћеонид on 20.05.2015.
+ * —делайте страницу, котора€ выводит Ђя Ц JavaScript!ї.
  */
+
+alert("YA PROSTO CAPEC KAKAYA JAVASCRIPT")
+
