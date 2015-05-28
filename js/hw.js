@@ -16,3 +16,6 @@ name = 'Vasya'
 admin = name
 alert (admin)
 
+/* Sozdat stranicy, kotoraya sprashivaet imya i vivodit ego*/
+var name = prompt ('What is your name?');
+alert (name);
